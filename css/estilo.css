@@ -1,0 +1,174 @@
+body{
+margin: 0;
+font-family: tahoma;
+
+}
+
+.secao-topo {
+text-align: center;
+padding-top: 30px; 
+padding-bottom: 30px;
+background-color: #afddfb;
+
+}
+
+.img-logo{
+    width: 150px;
+
+}
+
+.paragrafo-topo{
+    text-align: center;
+    margin-top: 15px;
+    
+    margin-bottom: 25px;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.paragrafo-topo a{
+    color: #1d1d1d;
+    text-decoration: none;
+    border-bottom: 2px solid #1d1d1d;
+    margin: 10px auto 10px;
+    margin-left: 10px;
+
+}
+
+p{
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    width: 980px;   
+    
+}
+
+span{
+    color: #1d80c1;
+    font-weight: bold;
+
+}
+
+.secao-servicos{
+    background-color: #1d80c1;
+    text-align: center;
+    margin: 40px auto 40px;
+    padding: 30px;
+    
+}
+
+.secao-servicos h2{
+    color: #ffffff;
+    font-size: 28px;
+    line-height: 42px;
+}
+
+.secao-servicos  .texto-amarelo{
+    color:#fff81b
+
+}
+
+.secao-servicos p {
+    color: #ffffff;
+    line-height: 42x;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+   
+}
+.secao-servicos .listas{
+    color: #ffffff;
+    margin: 40px auto 40px;
+    width: 135px;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.secao-corretores h2{
+    color: #1c81c0;
+    font-size: 28px;
+}
+
+.secao-contato .texto-amarelo{
+    color: #fff81b
+
+}
+
+.secao-residencia{
+    text-align: center;
+    margin: 30px auto 30px;
+   
+ }
+
+ .secao-sobre{
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+ }
+
+ .secao-sobre h1{
+    color: #1d1d1d;
+    margin-bottom: 5px;
+ }
+
+ .secao-sobre h2{
+    color: #1c81c0;
+    
+ }
+
+ .img-assinatura{
+    text-align: center;
+    width: 450px;
+    margin: 30px auto 30px;
+      
+ }
+.secao-corretores{
+    text-align: center;
+    
+}
+
+.secao-corretores .img-corretores{
+    width: 450px;
+    margin: 30px auto 30px;
+
+}
+
+.secao-contato{
+    color: #ffffff;
+    text-align: center;
+    background-color: #1d80c1;
+    margin: 30px auto 30px;
+    padding: 30px;
+}
+
+.secao-contato h2{
+    font-size: 28px;
+}
+.secao-contato p{
+    background-color: #1d1d1d;
+}
+
+.lista-contato {
+    width: 210px;
+    list-style: none;
+    margin: 40px auto 40px;
+}
+
+.item-lista-contato {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.link-contato {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
+
+
